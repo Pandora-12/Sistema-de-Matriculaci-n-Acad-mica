@@ -1,0 +1,42 @@
+[
+  {
+    "id": 101,
+    "nombre": "Juan Pérez",
+    "carrera": "Ingeniería de Sistemas",
+    "semestre": 2,
+    "matriculado": true,
+    "creditosPermitidos": 20
+  },
+  {
+    "id": 102,
+    "nombre": "María Gómez",
+    "carrera": "Ingeniería Industrial",
+    "semestre": 1,
+    "matriculado": true,
+    "creditosPermitidos": 18
+  },
+  {
+    "id": 103,
+    "nombre": "Carlos Ramírez",
+    "carrera": "Ingeniería de Sistemas",
+    "semestre": 2,
+    "matriculado": true,
+    "creditosPermitidos": 7
+  },
+  {
+    "id": 104,
+    "nombre": "Laura Torres",
+    "carrera": "Diseño de Interfaces",
+    "semestre": 2,
+    "matriculado": false,
+    "creditosPermitidos": 20
+  },
+  {
+    "id": 105,
+    "nombre": "Andrés Rojas",
+    "carrera": "Matemáticas Aplicadas",
+    "semestre": 1,
+    "matriculado": true,
+    "creditosPermitidos": 30
+  }
+]
